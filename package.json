@@ -1,6 +1,6 @@
 {
   "name": "tempaw-build",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Gulp wrapper for quick and easy project build",
   "main": "index.js",
   "scripts": {
